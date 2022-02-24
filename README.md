@@ -1,5 +1,5 @@
-### Hi there 👋
-
+## SimPaster
+### Paste your custom numerical simulation into a production ready optimization workflow
 <!--
 **SimPaster/SimPaster** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
